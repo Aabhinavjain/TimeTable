@@ -1,0 +1,182 @@
+{
+    "days" : [
+        {
+            "day" : "Monday",
+            "subjects" : [
+                {
+                    "name" : "COA Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "PME Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "10am-10:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Graphics Lab",
+                    "place" : "CL7 Ground Floor",
+                    "time" : "11am-12:55pm",
+                    "type" : ""
+                },
+                {
+                    "name" : "AMS Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "2pm-2:55pm",
+                    "type" : ""
+                },
+                {
+                    "name" : "Cloud Lab",
+                    "place" : "CL7 Ground",
+                    "time" : "3pm-4:55am",
+                    "type" : "prof"
+                }
+                
+            ]
+        },
+        {
+            "day" : "Tuesday",
+            "subjects" : [
+                {
+                    "name" : "AutoMata Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Graphics Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "10am-10:55am",
+                    "type" : ""
+                },
+                
+                {
+                    "name" : "Cloud Lecture",
+                    "place" : "CR7/CR8 1st Floor",
+                    "time" : "2pm-2:55pm",
+                    "type" : "prof"
+                }
+            ]
+        },
+        {
+            "day" : "Wednesday",
+            "subjects" : [
+                {
+                    "name" : "Graphics Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "PME Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "10am-10:55am",
+                    "type" : ""
+                },
+              
+                {
+                    "name" : "AMS Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "2pm-2:55pm",
+                    "type" : ""
+                },
+                {
+                    "name" : "Cloud Lab",
+                    "place" : "CL7 Ground",
+                    "time" : "3pm-4:55pm",
+                    "type" : "prof"
+                }
+            ]
+        },
+        {
+            "day" : "Thursday",
+            "subjects" : [
+                {
+                    "name" : "AutoMata Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Graphics Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "10am-10:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Graphics Lab",
+                    "place" : "CL7 Ground Floor",
+                    "time" : "11am-12:55pm",
+                    "type" : ""
+                },
+                {
+                    "name" : "Cloud Lecture",
+                    "place" : "CR7/CR8 Ground",
+                    "time" : "2pm-2:55pm",
+                    "type" : "prof"
+                },
+                {
+                    "name" : "Cloud Lab",
+                    "place" : "CL7 Ground",
+                    "time" : "3pm-4:55pm",
+                    "type" : "prof"
+                }
+            ]
+        },
+        {
+            "day" : "Friday",
+            "subjects" : [
+                {
+                    "name" : "COA Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "PME Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "10am-10:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Multimidia",
+                    "place" : "CL5 3rd Floor",
+                    "time" : "11am-12:55pm",
+                    "type" : ""
+                },
+                {
+                    "name" : "AMS Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "2pm-2:55pm",
+                    "type" : ""
+                },
+                {
+                    "name" : "Cloud Lab",
+                    "place" : "CL7 Ground",
+                    "time" : "3pm-4:55pm",
+                    "type" : "prof"
+                }
+            ]
+        },
+        {
+            "day" : "Saturday",
+            "subjects" : [
+                {
+                    "name" : "AutoMata Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "9am-9:55am",
+                    "type" : ""
+                },
+                {
+                    "name" : "Graphics Lecture",
+                    "place" : "LT3 1st Floor",
+                    "time" : "10am-10:55am",
+                    "type" : ""
+                }
+            ]
+        }
+    ]
+    
+}
