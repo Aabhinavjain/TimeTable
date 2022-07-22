@@ -6,7 +6,7 @@
 }
 
 .background {
-    background: linear-gradient(0deg,#121212,#341658d0);
+    background: #40E0D0;
     height: 100%;
     min-height: 100vh;
 }
@@ -61,7 +61,7 @@
     font-weight: 550;
     font-size: 30px;
     text-align: center;
-    color: #BB86FC;
+    color: #008B8B;
 }
 
 
