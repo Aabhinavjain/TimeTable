@@ -1,0 +1,161 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.background {
+    background: linear-gradient(0deg,#121212,#341658d0);
+    height: 100%;
+    min-height: 100vh;
+}
+
+.timetable {
+    height: 60px;
+    padding: 5px;
+    padding-top: 10px;
+    margin-bottom: 15px;
+    font-style: normal;
+    font-weight: bold;
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    color: white;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+
+.pc {
+    width: 95%;
+    background: #1f1f1fd2;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    width: 95%;
+    height: 10%;
+    padding: 10px 0px;
+    display: flex;
+}
+
+.day {
+    width: 350px;
+    margin: 10px;
+    margin-top: 0px;
+}
+
+
+.dayname {
+    padding: 5px;
+    font-style: normal;
+    font-weight: semi-bold;
+    font-weight: 550;
+    font-size: 30px;
+    text-align: center;
+    color: #BB86FC;
+}
+
+
+.period {
+    height: 80px;
+    min-width: 160px;
+    margin: 5px 0px;
+    border-radius: 10px;
+    background: #282828;
+}
+
+.prof{
+    background: rgb(1, 78, 1);
+}
+
+h2 {
+    padding: 10px 10px 0px 10px;
+    font-style: normal;
+    font-weight: semi-bold;
+    font-weight: 550;
+    font-size: 17px;
+    text-align: center;
+    color: white;
+}
+
+.phone {
+    background: #1f1f1fb2;
+    border-radius: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 1320px) {
+    .background {
+        height: auto;
+        padding: 10px;
+    }
+
+    .content {
+        width: 95%;
+        height: 10%;
+        padding: 10px 0px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (min-width: 780px) {
+    .phone {
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 780px) {
+    .background {
+        height: auto;
+        padding: 20px;
+        min-height: 100vh;
+        background: linear-gradient(0deg, #341658d0, #121212);
+    }
+
+    .main {
+        padding: 0px;
+    }
+
+    .pc {
+        display: none;
+    }
+
+    .phone {
+        display: block;
+        width: 95%;
+    }
+
+    .day {
+        width: 95%;
+        margin: 10px;
+    }
+
+    .period {
+        height: 100px;
+        margin: 20px;
+        border-radius: 10px;
+    }
+
+    h2 {
+        padding: 20px 20px 0px 20px;
+        font-style: normal;
+        font-weight: semi-bold;
+        font-weight: 550;
+        font-size: 17px;
+        text-align: center;
+        color: white;
+    }
+}
